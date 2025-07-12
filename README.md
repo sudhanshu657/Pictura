@@ -15,3 +15,13 @@ Responsive UI built with React.js and Tailwind CSS.
 Real-time feedback and notifications via Toastify.
 
 Fast image rendering in < 5 seconds per request.
+
+
+🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS, Axios, React Router, Toastify
+
+Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt
+
+AI API: ClipDrop (Stability AI)
+
+Deployment: Vercel (frontend), Render (backend), MongoDB Atlas (database)
